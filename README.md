@@ -25,7 +25,7 @@ Welcome to *My JavaScript Project*! 🎉 This project demonstrates learn javascr
 
 2. Navigate to the project directory:
 
-cd repo-name
+cd javascript
 
 
 3. Install dependencies:
