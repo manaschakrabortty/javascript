@@ -6,6 +6,7 @@ Welcome to *My JavaScript Project*! 🎉 This project demonstrates A modern Java
 ---
 
 ## 📚 Table of Contents
+This project simplifies creating dynamic web interfaces using modern JavaScript techniques. It’s built with a focus on performance and scalability.
 --learn acvascript from scratch
 
 ## 🧐 About the Project
