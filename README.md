@@ -1,6 +1,7 @@
 # javascript# 🚀 My JavaScript Project
 
-Welcome to *My JavaScript Project*! 🎉 This project demonstrates learn javascript from scratch. 
+Welcome to *My JavaScript Project*! 🎉 This project demonstrates A modern JavaScript project for creating a dynamic web experience.
+
 
 ---
 
@@ -8,13 +9,17 @@ Welcome to *My JavaScript Project*! 🎉 This project demonstrates learn javascr
 --learn acvascript from scratch
 
 ## 🧐 About the Project
-
+-- learn javascript from scratch. 
+--A modern JavaScript project for creating a dynamic web experience.
 
 ---
 
 
 ## 🛠 Technologies
 - *JavaScript* 🌟
+- JavaScript
+- Node.js
+- Express.js
 
 ---
 
