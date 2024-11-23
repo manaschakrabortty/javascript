@@ -21,7 +21,7 @@ Welcome to *My JavaScript Project*! 🎉 This project demonstrates learn javascr
 ## ⚙ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/manaschakrabortty/javascript
 
 2. Navigate to the project directory:
 
